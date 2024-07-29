@@ -1,4 +1,8 @@
 <p align="center">
+  <b>Ignite shop</b>
+</p>
+
+<p align="center">
   <a href="https://github.com/tiagoleal/ignite_shop">
     <img alt="Current Version" src="https://img.shields.io/badge/version-1.0.0 -blue.svg">
   </a>
@@ -18,7 +22,7 @@
 
 ## Web
 
-![](https://github.com/tiagoleal/ignite_shop/tree/main/src/assets/ignite_shop.gif)
+![Ignite Shop](./src/assets/ignite_shop.gif)
 
 ## Stack the Project
 
