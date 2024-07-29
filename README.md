@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-   <img alt="Ignite Shop" src="https://github.com/tiagoleal/ignite_shop/blob/master/web/src/assets/logo.svg?raw=true" width="200">
+   <img alt="Ignite Shop" src="https://github.com/tiagoleal/ignite_shop/blob/main/web/src/assets/logo.svg?raw=true" width="200">
   </a>
 </p>
 
@@ -11,19 +11,15 @@
   <a href="https://pt-br.reactjs.org/">
     <img alt="" src="https://img.shields.io/badge/React-18.2.73-blue.svg" target="_blank">
   </a>
-
   <a href="https://nodejs.org/en/">
     <img alt="Node Version" src="https://img.shields.io/badge/node-%3E%3D%2020.16.0-brightgreen" target="_blank">
   </a>
-
   <a href="https://nextjs.org/docs/deployment">
     <img alt="" src="https://img.shields.io/badge/Next-14.1.4-red.svg" target="_blank">
   </a>
-    
   <a href="https://jestjs.io/">
     <img alt="" src="https://img.shields.io/badge/Typescript-5.5.0-blue.svg" target="_blank">
   </a>
-  
 </p>
 
 ## Web
