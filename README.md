@@ -1,36 +1,110 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="#">
+   <img alt="Ignite Shop" src="https://github.com/tiagoleal/ignite_shop/blob/master/web/src/assets/logo.svg?raw=true" width="200">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tiagoleal/ignite_shop">
+    <img alt="Current Version" src="https://img.shields.io/badge/version-1.0.0 -blue.svg">
+  </a>
+  <a href="https://pt-br.reactjs.org/">
+    <img alt="" src="https://img.shields.io/badge/React-18.2.73-blue.svg" target="_blank">
+  </a>
+
+  <a href="https://nodejs.org/en/">
+    <img alt="Node Version" src="https://img.shields.io/badge/node-%3E%3D%2020.16.0-brightgreen" target="_blank">
+  </a>
+
+  <a href="https://nextjs.org/docs/deployment">
+    <img alt="" src="https://img.shields.io/badge/Next-14.1.4-red.svg" target="_blank">
+  </a>
+    
+  <a href="https://jestjs.io/">
+    <img alt="" src="https://img.shields.io/badge/Typescript-5.5.0-blue.svg" target="_blank">
+  </a>
+  
+</p>
+
+## Web
+
+![](https://github.com/tiagoleal/ignite_shop/blob/master/web/src/assets/ignite_shop.gif)
+
+## Stack the Project
+
+- **Node**
+- **next**
+- **ReactJS**
+- **keen-slider**
+- **stripe**
+- **axios**
+- **TypeScript**
+
+## Features
+
+- **Collections product images:** optimization render images by SSR/SSG.
+
+- **Integration with stripe payment:** Permit to realize the payment through 
+stripe application.
 
 ## Getting Started
 
-First, run the development server:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+You must have installed on your machine:
+
+- Node
+- NPM
+
+### Installing
+
+First step is to install the node:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Using Ubuntu
+$ curl -sL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+
+# Using Debian, as root
+# curl -sL https://deb.nodesource.com/setup_20.x | bash -
+# apt-get install -y nodejs
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+For test if the service was installed with succeed, you can run the command for to check de version of Node:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+$ node -v
+# Must be have the node version: v120.16.0
+$ npm -v
+# Must be have the npm version: 9.6.7
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## First steps
 
-## Learn More
+Follow the instructions to have a project present and able to run it locally.
+After copying the repository to your machine, go to the project's root ignite-shop:
 
-To learn more about Next.js, take a look at the following resources:
+1.  Install packages
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+$ nom install
+# or 
+$ yarn install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```
 
-## Deploy on Vercel
+2.  Run Web Application
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+# Acess web folder and run:
+$ yarn dev
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Authors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+[<img src="https://avatars1.githubusercontent.com/u/5727529?s=460&v=4" width="100px;"/><br /><sub><b>Tiago Leal</b></sub>](https://github.com/tiagoleal)<br />
