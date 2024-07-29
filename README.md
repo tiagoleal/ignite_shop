@@ -24,7 +24,7 @@
 
 ## Web
 
-![](https://github.com/tiagoleal/ignite_shop/blob/master/web/src/assets/ignite_shop.gif)
+![](https://github.com/tiagoleal/ignite_shop/blob/main/web/src/assets/ignite_shop.gif)
 
 ## Stack the Project
 
